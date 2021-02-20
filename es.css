@@ -1,0 +1,16 @@
+.nav{
+    background-color: rgb(241, 233, 241);
+}
+.d-block{
+    /* width: 1299px;
+    height:670px; */
+    object-fit: cover;
+}
+.nav-link {
+    text-decoration-color: aliceblue;
+}
+/* #carouselExampleCaptions{
+    margin: auto;
+    height: 700px;
+    width: 100%;
+} */
